@@ -543,8 +543,8 @@ int loop(int no_adv)
 
 int main(int q, char** qq)
 {
-	if(q != 2)
-		return 0;
+//	if(q != 2)
+//		return 0;
 	vaj_mem_2 = 0;
 	max_total = 0;
 	printf(" \'t\' - adventure   ");
@@ -564,6 +564,7 @@ int main(int q, char** qq)
 	}
 	return 0;
 }
+
 
 
 
