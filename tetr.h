@@ -14,6 +14,6 @@ void set_adv();
 
 #define V_LIN 22
 #define H_LIN 11
-#define PRR 2
+#define PRR 10
 #define pryskorennia 200
 #define shvydkist 1000 
