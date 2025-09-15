@@ -46,10 +46,9 @@ g++ tetr.cpp -o tetr -std=c++11
 - `mask_color` – bitmask for allowed colors.
 
 ### Screenshots
-| Windows | Linux (via SSH) |
-|---------|----------------|
-| ![Windows Screenshot](screenshot_win.png) | ![Linux Screenshot](screenshot_linux.png) |
-
+| Windows & Linux (via SSH) |
+|-------------------------|
+| ![Screenshot](screenshot.png) |
 ## Українська
 
 Цей проєкт — адаптація студентського проєкту для Arduino у вигляді консольної гри Tetris.
@@ -95,11 +94,6 @@ g++ tetr.cpp -o tetr -std=c++11
 - `#define PRESENT_COLORS` – розкоментуйте, щоб переглянути палітру вашої консолі.
 - `ban_color[]` – список кольорів, які не будуть використані.
 - `mask_color` – бітова маска дозволених кольорів.
-
-### Скріншоти
-| Windows | Linux (через SSH) |
-|---------|------------------|
-| ![Скріншот Windows](screenshot_win.png) | ![Скриншот Linux](screenshot_linux.png) |
 
 ### Ліцензія / License
 Проєкт поширюється як є. Ви можете змінювати, адаптовувати чи інтегрувати його у власні навчальні або хобі-проєкти.
