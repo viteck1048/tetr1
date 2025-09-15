@@ -1,10 +1,3 @@
-I'll update the README.md file with the bilingual content:
-
-
-Let me try again with the replace_file_content tool to update the empty file:
-
-I'll help you create a bilingual README.md file. Here's the content you can copy and paste into your README.md file:
-
 # Console Tetris (Arduino Project Adaptation) / Консольний Tetris (адаптація Arduino-проєкту)
 
 ## English
